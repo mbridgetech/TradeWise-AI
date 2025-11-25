@@ -1,0 +1,4 @@
+project_id = "ecinygndrzwerlalxnaa"
+
+[functions.analyze-trades]
+verify_jwt = true
